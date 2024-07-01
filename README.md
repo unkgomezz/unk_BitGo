@@ -1,12 +1,12 @@
 # BitFinderGo v0.5
 
-# Instruções para rodar o código:
+# Instruções para rodar o código
 
 ## Requisitos
-  -  [Go][install-go]
-  -  Terminal
+  -  Go instalado;
+  -  Terminal CMD;
 
-## Execução do corre
+## Execução no CMD
 Tutorial de execução:
 
  * No CMD, clone o repositório:
