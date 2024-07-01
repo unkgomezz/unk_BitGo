@@ -1,6 +1,6 @@
 FROM golang
 WORKDIR /app
-RUN git clone
+RUN git clone 
 WORKDIR /app/btcgo
 RUN rm -rf .git
 RUN go mod tidy
