@@ -10,7 +10,7 @@
 Tutorial de execução:
 
  * No CMD, clone o repositório:
-  ``` git clone git@github.com:unkgomezz/unk_BitGo.git```
+  ``` git clone git@github.com:unkgomezz/BitGo.git```
  * Entre na pasta do projeto:
   ``` cd NomeDaPasta ```
  * Instale as dependências:
